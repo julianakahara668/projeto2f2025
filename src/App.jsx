@@ -13,4 +13,4 @@ class App extends Component {
   }
 }
 
-export defaultz
+export default App
